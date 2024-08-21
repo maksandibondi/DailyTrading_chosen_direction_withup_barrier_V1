@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Program Files\\Candleworks\\ForexConnectAPIx64\\DailyTrading_chosen_direction_withup_barrier_V1\\DailyTrading_chosen_direction_withup_barrier_V1.csproj": {}
+  },
+  "projects": {
+    "C:\\Program Files\\Candleworks\\ForexConnectAPIx64\\DailyTrading_chosen_direction_withup_barrier_V1\\DailyTrading_chosen_direction_withup_barrier_V1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Program Files\\Candleworks\\ForexConnectAPIx64\\DailyTrading_chosen_direction_withup_barrier_V1\\DailyTrading_chosen_direction_withup_barrier_V1.csproj",
+        "projectName": "DailyTrading_chosen_direction_withup_barrier_V1",
+        "projectPath": "C:\\Program Files\\Candleworks\\ForexConnectAPIx64\\DailyTrading_chosen_direction_withup_barrier_V1\\DailyTrading_chosen_direction_withup_barrier_V1.csproj",
+        "packagesPath": "C:\\Users\\maksy\\.nuget\\packages\\",
+        "outputPath": "C:\\Program Files\\Candleworks\\ForexConnectAPIx64\\DailyTrading_chosen_direction_withup_barrier_V1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maksy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "targetAlias": "netcoreapp1.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "targetAlias": "netcoreapp1.0",
+          "dependencies": {
+            "Legacy2CPSWorkaround": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Xml.XmlDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Xml.XmlSerializer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
