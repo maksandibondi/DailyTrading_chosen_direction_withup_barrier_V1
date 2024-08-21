@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DailyTrading_chosen_direction_withup_barrier_V1.props" />
-</Project>
